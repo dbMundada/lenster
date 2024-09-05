@@ -1,6 +1,7 @@
 import { IS_MAINNET } from 'data/constants';
 import { polygon, polygonMumbai } from 'wagmi/chains';
 
+
 // Web3
 export const POLYGON_MAINNET = {
   ...polygon,
